@@ -1,5 +1,49 @@
-h1{
-    margin: auto;
-    color: red;
 
+
+body{
+    background-color: black;
+}
+h1 {
+    margin: auto;
+    text-align: center;
+    color: deepskyblue;
+
+}
+
+nav {
+    text-align: center;
+
+
+}
+
+.container{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 150px;
+
+}
+
+
+
+#card1{
+    margin: 5px;
+}
+
+#card2{
+    margin: 5px;
+}
+
+#card3{
+    margin: 5px;
+}
+
+
+.btn-outline-primary{
+    color: black;
+}
+
+.btn{
+    color: black;
 }
