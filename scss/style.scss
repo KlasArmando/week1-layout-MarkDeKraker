@@ -1,0 +1,31 @@
+body{
+  nav{
+    text-align: center;
+  }
+  background-color: black;
+  .btn-outline-primary{
+    color: black;
+  }
+  .btn{
+    color: black;
+  }
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 150px;
+  #card1{
+    margin: 5px;
+  }
+  #card2{
+    margin: 5px;
+  }
+  #card3{
+    margin: 5px;
+  }
+}
+

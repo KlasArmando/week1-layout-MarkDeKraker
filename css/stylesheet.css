@@ -1,49 +1,32 @@
-
-
-body{
-    background-color: black;
+body {
+  background-color: black;
 }
-h1 {
-    margin: auto;
-    text-align: center;
-    color: deepskyblue;
-
+body nav {
+  text-align: center;
 }
-
-nav {
-    text-align: center;
-
-
+body .btn-outline-primary {
+  color: black;
+}
+body .btn {
+  color: black;
 }
 
-.container{
-    display: flex;
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-    padding: 150px;
-
+.container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 150px;
+}
+.container #card1 {
+  margin: 5px;
+}
+.container #card2 {
+  margin: 5px;
+}
+.container #card3 {
+  margin: 5px;
 }
 
-
-
-#card1{
-    margin: 5px;
-}
-
-#card2{
-    margin: 5px;
-}
-
-#card3{
-    margin: 5px;
-}
-
-
-.btn-outline-primary{
-    color: black;
-}
-
-.btn{
-    color: black;
-}
+/*# sourceMappingURL=stylesheet.css.map */
